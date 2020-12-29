@@ -1,13 +1,14 @@
 body{
 margin:0;
-background-color: #d2f5e3
+background-color: #d2f5e3;
+font-family: comic sans ms, sans-serif;
 }
 
 .sticky-note{
   background-color: #f3eac2;
   border: solid;
-  height: 280px;
-  width: 400px;
+  height: 300px;
+  width: 450px;
   margin: 5px;
   padding:10px;
 }
