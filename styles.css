@@ -4,6 +4,20 @@ background-color: #d2f5e3;
 font-family: Comic sans ms, 'Nunito', serif;
 }
 
+hr{
+  border-style: dotted none none;
+  border-color: #99a8b2;
+  border-width: 4px;
+  width: 6%
+}
+h1{
+  color: #fa7f72;
+  margin-top: 0;
+}
+h3{
+  color: #34626c;
+}
+
 .top-picture{
   display: inline-block;
   width: 300px;
@@ -29,18 +43,8 @@ font-family: Comic sans ms, 'Nunito', serif;
   padding:10px;
 }
 
-hr{
-  border-style: dotted none none;
-  border-color: #99a8b2;
-  border-width: 4px;
-  width: 6%
-}
-h1{
-  color: #fa7f72;
-  margin-top: 0;
-}
-h3{
-  color: #34626c;
+.skills-text{
+  font-size: 16px;
 }
 
 .butterfly{
