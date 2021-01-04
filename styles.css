@@ -13,20 +13,19 @@ font-family: Comic sans ms, 'Nunito', serif;
   line-height: 2;
   display: inline-block;
   position: absolute;
-  top: 50px;
+  top: 60px;
 }
 
 .profile{
   border-radius:100%;
-  width: 80%;
+  width: 90%;
 }
 
 .sticky-note{
   background-color: #f3eac2;
-  border: solid;
-  height: 330px;
-  width: 450px;
-  margin: 5px;
+  border: 3px solid;
+  width: 70%;
+  margin: auto;
   padding:10px;
 }
 
