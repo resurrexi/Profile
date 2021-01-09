@@ -79,14 +79,12 @@ h3{
 
 .couple{
   height: 130px;
-  display: inline-block;
   position: absolute;
   left: 680px;
   padding-top: 30px;
 }
 
 .goals{
-  display: inline-block;
   position: relative;
   width: 60%;
   left: 120px;
