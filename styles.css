@@ -80,9 +80,8 @@ h3{
 .couple{
   height: 130px;
   position: absolute;
-  left: 680px;
+  right: 50px;
   padding-top: 30px;
-  padding-left: 30px;
 }
 
 .goals{
