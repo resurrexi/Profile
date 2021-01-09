@@ -81,8 +81,7 @@ h3{
   height: 130px;
   display: inline-block;
   position: absolute;
-  left: 700px;
-  margin-left: 0px;
+  left: 680px;
   padding-top: 30px;
 }
 
@@ -91,7 +90,6 @@ h3{
   position: relative;
   width: 60%;
   left: 120px;
-  margin-right:0px;
 }
 
 .life-dream{
