@@ -81,14 +81,14 @@ h3{
   height: 130px;
   display: inline-block;
   position: absolute;
-  margin: 30px 30px 30px 580px;
+  margin: 30px 30px 30px 630px;
 }
 
 .goals{
   display: inline-block;
   position: relative;
   width: 60%;
-  left: 100px;
+  left: 120px;
 }
 
 .life-dream{
