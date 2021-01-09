@@ -14,6 +14,10 @@ h1{
   color: #fa7f72;
   margin-top: 0;
 }
+
+h2{
+  color: #34626c;
+}
 h3{
   color: #34626c;
 }
@@ -21,13 +25,15 @@ h3{
 .top-picture{
   display: inline-block;
   width: 300px;
+  padding-left: 50px;
 }
 
 .top-description{
+  font-size: 20px;
   line-height: 2;
   display: inline-block;
   position: absolute;
-  top: 60px;
+  top: 55px;
 }
 
 .profile{
@@ -39,8 +45,50 @@ h3{
   background-color: #f3eac2;
   border: 3px solid;
   width: 70%;
-  margin: 10px auto;
+  margin: 20px auto;
   padding:10px;
+}
+
+.gardener{
+  border-radius: 100%;
+  width: 130px;
+  display: inline-block;
+  position: absolute;
+  margin: 30px 30px 30px 500px;
+}
+
+.hobbies{
+  display: inline-block;
+  position: relative;
+  left: 200px;
+}
+
+.heart-hug{
+  width: 100px;
+  display: inline-block;
+  position: absolute;
+  margin: 40px 20px 20px 120px;
+}
+
+.values{
+  display: inline-block;
+  position: relative;
+  width: 55%;
+  left: 250px;
+}
+
+.couple{
+  height: 130px;
+  display: inline-block;
+  position: absolute;
+  margin: 30px 30px 30px 580px;
+}
+
+.goals{
+  display: inline-block;
+  position: relative;
+  width: 60%;
+  left: 100px;
 }
 
 .butterfly{
